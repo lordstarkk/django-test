@@ -110,7 +110,7 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
-ALLOWED_HOSTS = ['django-test-5qmb.onrender.com']
+ALLOWED_HOSTS = ['django-test-5qmb.onrender.com', "127.0.0.1"]
 
 
 # Static files (CSS, JavaScript, Images)
